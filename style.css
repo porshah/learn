@@ -1,1 +1,13 @@
+body {
+
+  grid-area: header;
+  color: rgb(238, 11, 181);
+  padding: 10px;
+  font-family: 'Gill Sans';
+  font-size: 160%;
+  text-align: center;
+  background-image: url('./Animated-Cool-Background.jpg');
+  background-size: cover;
+  background-position: center;
+
 
